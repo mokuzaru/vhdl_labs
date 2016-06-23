@@ -1,0 +1,28 @@
+Command line:
+   semaforo_TB_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  49773
+
+Tue May 31 08:51:16 2016
+
+
+ Elaboration Time: 0.203125 sec
+
+ Current Memory Usage: 1502.11 Meg
+
+ Total Signals          : 10
+ Total Nets             : 5
+ Total Signal Drivers   : 5
+ Total Blocks           : 3
+ Total Primitive Blocks : 2
+ Total Processes        : 2
+ Total Traceable Variables  : 8
+ Total Scalar Nets and Variables : 365
+
+ Total Simulation Time: 0.296875 sec
+
+ Current Memory Usage: 401.068 Meg
+
+Wed Jun 01 08:19:21 2016
+

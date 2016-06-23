@@ -1,0 +1,2 @@
+vhdl isim_temp "aplicacion12.vhd"
+vhdl isim_temp "Aplicacion12_TB.vhd"

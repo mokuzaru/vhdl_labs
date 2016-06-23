@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "D:/Material de Tecsup/Tercer ciclo/Circuitos integrados/labvhdl 2/contador0a3/contador0a3_TB_isim_beh.exe" -prj "D:/Material de Tecsup/Tercer ciclo/Circuitos integrados/labvhdl 2/contador0a3/contador0a3_TB_beh.prj" "work.contador0a3_TB" 

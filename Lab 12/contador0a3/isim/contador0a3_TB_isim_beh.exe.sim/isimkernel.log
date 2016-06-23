@@ -1,0 +1,28 @@
+Command line:
+   contador0a3_TB_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  52303
+
+Sun Jun 05 21:42:47 2016
+
+
+ Elaboration Time: 0.15625 sec
+
+ Current Memory Usage: 1343.76 Meg
+
+ Total Signals          : 8
+ Total Nets             : 4
+ Total Signal Drivers   : 4
+ Total Blocks           : 3
+ Total Primitive Blocks : 2
+ Total Processes        : 2
+ Total Traceable Variables  : 8
+ Total Scalar Nets and Variables : 364
+
+ Total Simulation Time: 0.25 sec
+
+ Current Memory Usage: 400.007 Meg
+
+Sun Jun 05 22:03:55 2016
+

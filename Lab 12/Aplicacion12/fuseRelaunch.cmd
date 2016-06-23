@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "D:/Material de Tecsup/Tercer ciclo/Circuitos integrados/Lab 12/Aplicacion12/Aplicacion12_TB_isim_beh.exe" -prj "D:/Material de Tecsup/Tercer ciclo/Circuitos integrados/Lab 12/Aplicacion12/Aplicacion12_TB_beh.prj" "work.Aplicacion12_TB" 

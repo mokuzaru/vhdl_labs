@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "D:/Material de Tecsup/Tercer ciclo/Circuitos integrados/labvhdl 2/semaforo/semaforo.xst" -ofn "D:/Material de Tecsup/Tercer ciclo/Circuitos integrados/labvhdl 2/semaforo/semaforo.syr" 
